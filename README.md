@@ -1,3 +1,7 @@
+[![make.fun · u-nayyy-confess-your-worst-moment-841ae7ef](https://make.fun/badge/u-nayyy-confess-your-worst-moment-841ae7ef.svg)](https://make.fun/bounty/u-nayyy-confess-your-worst-moment-841ae7ef?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-confess-your-worst-moment-841ae7ef)
+[![rank](https://make.fun/badge/u-nayyy-confess-your-worst-moment-841ae7ef/nvtuananhh/makefun-confess-worst-moment/rank.svg)](https://make.fun/bounty/u-nayyy-confess-your-worst-moment-841ae7ef/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-confess-your-worst-moment-841ae7ef)
+[![reward](https://make.fun/badge/u-nayyy-confess-your-worst-moment-841ae7ef/nvtuananhh/makefun-confess-worst-moment/reward.svg)](https://make.fun/bounty/u-nayyy-confess-your-worst-moment-841ae7ef?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-confess-your-worst-moment-841ae7ef)
+
 # Confess Your Worst Moment — make.fun entry
 
 Bounty: https://make.fun/bounty/u-nayyy-confess-your-worst-moment-841ae7ef — $3, 1st–3rd $1 each. Ends Thu Nov 26, 2026, 5:30 PM UTC (Fri Nov 27, 12:30 AM +07). Round 1 ends Nov 26, 7:09 AM +07. Free to enter.
